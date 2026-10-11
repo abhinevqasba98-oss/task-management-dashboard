@@ -1,0 +1,60 @@
+{
+  "tasks": [
+    {
+      "id": "task-1001",
+      "title": "Prepare product launch checklist",
+      "description": "Coordinate final launch tasks with design, engineering, and marketing.",
+      "status": "In Progress",
+      "priority": "High",
+      "dueDate": "2026-10-13"
+    },
+    {
+      "id": "task-1002",
+      "title": "Review onboarding flow",
+      "description": "Check the first-run experience and list confusing steps.",
+      "status": "To Do",
+      "priority": "Medium",
+      "dueDate": "2026-10-18"
+    },
+    {
+      "id": "task-1003",
+      "title": "Update API documentation",
+      "description": "Document request examples and error responses for the public API.",
+      "status": "Completed",
+      "priority": "Low",
+      "dueDate": "2026-10-06"
+    },
+    {
+      "id": "task-1007",
+      "title": "Prepare sprint retrospective notes",
+      "description": "Summarize wins, blockers, and follow-up actions from the sprint review.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "dueDate": "2026-10-02"
+    },
+    {
+      "id": "task-1004",
+      "title": "Fix mobile navigation spacing",
+      "description": "Validate navigation spacing at narrow viewport widths.",
+      "status": "To Do",
+      "priority": "High",
+      "dueDate": "2026-10-01"
+    },
+    {
+      "id": "task-1005",
+      "title": "Schedule customer interviews",
+      "description": "Contact five customers and confirm suitable interview slots.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "dueDate": "2026-10-22"
+    },
+    {
+      "id": "task-1006",
+      "title": "Audit component accessibility",
+      "description": "Review keyboard focus, form labels, and accessible names.",
+      "status": "To Do",
+      "priority": "Low",
+      "dueDate": "2026-10-15"
+    }
+  ]
+}
